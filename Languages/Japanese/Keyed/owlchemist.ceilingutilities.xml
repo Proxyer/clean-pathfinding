@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Owl_BiasToolTip>地表面タイルの上に生成される汚れに適用する,特別に許可された通過コストです.</Owl_BiasToolTip>
+  <Owl_RoadBiasToolTip>「道路(Road)」タグを持つタイルでの通過コストの削減値です.</Owl_RoadBiasToolTip>
+  <Owl_ExtraRangeToolTip>経路計算で追加される追加範囲です.計算範囲が広がるためゲームのパフォーマンスが低下する可能性があります.(追加された範囲がマップサイズの大きさの半分以上になると計算上の無駄が増える)</Owl_ExtraRangeToolTip>
+
+</LanguageData>
